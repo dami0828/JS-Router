@@ -29,6 +29,7 @@ body {
   line-height: 1.5;
   font-weight: 500;
 }
-a {
+.link {
+  padding: 0;
   color: #009579;
 }
